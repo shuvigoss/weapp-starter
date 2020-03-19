@@ -16,8 +16,8 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.10.2",
-	"appid": "<%= appid %>",
-	"projectname": "<%= name %>",
+	"appid": "<%= appId %>",
+	"projectname": "<%= projectName %>",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
