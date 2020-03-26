@@ -4,20 +4,29 @@
 		"ignore": []
 	},
 	"setting": {
-		"urlCheck": true,
+		"urlCheck": false,
 		"es6": true,
 		"postcss": true,
 		"minified": true,
 		"newFeature": true,
-		"autoAudits": false,
 		"coverView": true,
+		"nodeModules": false,
+		"autoAudits": false,
 		"showShadowRootInWxmlPanel": true,
-		"scopeDataCheck": false
+		"scopeDataCheck": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.10.2",
-	"appid": "<%= appId %>",
-	"projectname": "<%= projectName %>",
+	"libVersion": "2.10.0",
+	"appid": "wxcba0524ee1a5cc76",
+	"projectname": "weapp-starter",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
