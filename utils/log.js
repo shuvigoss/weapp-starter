@@ -9,12 +9,12 @@ module.exports = {
     warn() {
         if (!log) return
         log.warn.apply(log, arguments)
-        console.log("warn", ...arguments)
+        console.log("【warn】", ...arguments)
     },
     error() {
         if (!log) return
         log.error.apply(log, arguments)
-        console.error("error", ...arguments)
+        console.error("【error】", ...arguments)
     },
     setFilterMsg(msg) { // 从基础库2.7.3开始支持
         if (!log || !log.setFilterMsg) return
