@@ -5,6 +5,7 @@ starter for wechat mini program
 1. 支持npm,通过npm可下载相应组件
 2. 支持微信api promise化
 3. 支持实时log功能
+4. 增加[weui](https://developers.weixin.qq.com/miniprogram/dev/extended/weui/quickstart.html)组件 
 
 # 例子
 ## api promise
