@@ -7,6 +7,9 @@ starter for wechat mini program
 3. 支持实时log功能
 4. 增加[weui](https://developers.weixin.qq.com/miniprogram/dev/extended/weui/quickstart.html)组件 
 
+# 安装依赖
+![image](https://user-images.githubusercontent.com/3062921/77725652-f470dd80-7030-11ea-8850-77fef1cebb77.png)
+
 # 例子
 ## api promise
 ```
