@@ -25,8 +25,8 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.10.0",
-	"appid": "wxcba0524ee1a5cc76",
-	"projectname": "weapp-starter",
+	"appid": "<%= appId %>",
+	"projectname": "<%= projectName %>",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
